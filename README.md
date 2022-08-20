@@ -1,9 +1,9 @@
 # Random Quote Generator
 This app is a random Quote Generator built with Html5, SCSS and JavaScript.
 
-<img src="public/images/rqm-sc-1.png" alt="Screenshot 1" width="200px">
-<img src="public/images/rqm-sc-2.png" alt="Screenshot 2" width="200px">
-<img src="public/images/rqm-sc-3.png" alt="Screenshot 3" width="200px">
+<img src="public/images/rqm-sc-1.png" alt="Screenshot 1" width="500px">
+<img src="public/images/rqm-sc-2.png" alt="Screenshot 2" width="500px">
+<img src="public/images/rqm-sc-3.png" alt="Screenshot 3" width="500px">
 
 ## Features
 - Generate a random quote on click of a button
