@@ -1,5 +1,5 @@
 import "./style.scss";
-import {getQuotes} from "./api";"./api.js";
+import {getQuotes} from "./api.js";
 
 let quotesData = [];
 
